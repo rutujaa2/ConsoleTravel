@@ -1,0 +1,10 @@
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\bin\Debug\Console_TBS1.exe.config
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\bin\Debug\Console_TBS1.exe
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\bin\Debug\Console_TBS1.pdb
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\bin\Debug\ClassLibrary_TBS1.dll
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\bin\Debug\ClassLibrary_TBS1.pdb
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\obj\Debug\Console_TBS1.csproj.AssemblyReference.cache
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\obj\Debug\Console_TBS1.csproj.CoreCompileInputs.cache
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\obj\Debug\Console_TBS1.csproj.CopyComplete
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\obj\Debug\Console_TBS1.exe
+C:\Users\rutujaa2\source\repos\Console_TBS1\Console_TBS1\obj\Debug\Console_TBS1.pdb
